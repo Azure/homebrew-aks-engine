@@ -1,4 +1,4 @@
-class AKSEngine < Formula
+class AksEngine < Formula
     desc "A tool to quickly bootstrap Kubernetes cluster on Azure"
     homepage "https://github.com/Azure/aks-engine"
     version "0.28.1"
