@@ -1,3 +1,12 @@
+# AKS Engine Homebrew Repository
+
+This is a homebrew repo for installing [AKS Engine](https://github.com/Azure/aks-engine).
+
+## Usage
+
+```
+$ brew install Azure/aks-engine/aks-engine
+```
 
 # Contributing
 
