@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation. All rights reserved.
+# Licensed under the MIT license.
+
 class AksEngine < Formula
     desc "A tool to quickly bootstrap Kubernetes cluster on Azure"
     homepage "https://github.com/Azure/aks-engine"
