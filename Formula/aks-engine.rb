@@ -2,11 +2,11 @@
 # Licensed under the MIT license.
 
 class AksEngine < Formula
-    desc "A tool to quickly bootstrap Kubernetes cluster on Azure"
+    desc "A tool to provision Kubernetes clusters on Azure"
     homepage "https://github.com/Azure/aks-engine"
-    version "0.31.1"
+    version "0.31.2"
     url "https://github.com/Azure/aks-engine/releases/download/v#{version}/aks-engine-v#{version}-darwin-amd64.tar.gz"
-    sha256 "c7120e5b5d09d8aa533b82412a87da4c939b6eb4719f7cc2ec08185abf880770"
+    sha256 "63ef3ea403a144bee86ca659db8fd40128d68f1ef4c722da1d9326de5571af87"
 
     def install
       bin.install name
