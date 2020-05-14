@@ -4,9 +4,9 @@
 class AksEngine < Formula
     desc "A tool to provision Kubernetes clusters on Azure"
     homepage "https://github.com/Azure/aks-engine"
-    version "0.50.0"
+    version "0.50.1"
     url "https://github.com/Azure/aks-engine/releases/download/v#{version}/aks-engine-v#{version}-darwin-amd64.tar.gz"
-    sha256 "8d467dcfca2e1a8efb8f4ff41f31ae912094d3e1e453df5f12e5b4cf98abe8c2"
+    sha256 "d83aae202844a9b67d648149493f818540f4c60dc4cf62e2f7fb8b357c1781cc"
 
     def install
       bin.install name
